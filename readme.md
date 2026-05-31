@@ -13,14 +13,6 @@ Lately, **cybersecurity** has been catching my attention, and I've been explorin
 * **Cee-Vee**: AI-powered resume analysis platform for students and fresh graduates.
 * Various side projects that started with "this'll be quick". 
 
-### Interests
-
-* Full Stack/Frontend Development
-* UI/UX Design
-* AI Engineering/Agentic Workflows
-* Cybersecurity
-* Startups & Product Building
-
 ### Current 💻 Stack
 
 `Python` `FastAPI` `JavaScript` `React` `NextJS` `SQL` `Linux` `Figma`
